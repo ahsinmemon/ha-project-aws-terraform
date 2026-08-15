@@ -7,7 +7,7 @@ failure-tested to prove it actually recovers — not just that it deploys.
 then terminated one of two running EC2 instances while live traffic was hitting it, and recorded
 the system detecting the failure and healing itself automatically.
 
-📹 [Chaos test recording](https://drive.google.com/file/d/1sY5mrEPUCIxjtPRvUc1emvdVoqh9ah3h/view?usp=sharing)
+📹 [Chaos test recording](https://drive.google.com/file/d/1SNNAYuVHYTtoSQmkBhKUxkeNgGJ4Sknb/view?usp=sharing)
 🏗️ [Terraform source](https://github.com/ahsinmemon/ha-project-aws-terraform.git)
 
 ---
